@@ -1,0 +1,48 @@
+body {
+     color: #000000;
+     font-size: 1.2rem;
+     border-radius: 5px;
+     background: #F7F9F9;
+}
+
+header {
+     padding: 5px;
+     margin: 0% 5%;
+     text-align: center;
+     box-shadow: 0px 2px 5px #A93226;
+}
+
+.title {
+     margin: 0 20% 0 0;
+     font-size: 1.6rem;
+     display: inline-block;
+}
+
+.back {
+     margin: 0 0 0 20%;
+     display: inline-block;
+}
+
+.back a {
+     color: #000000;
+     font-size: 1.6rem;
+     text-decoration: none;
+}
+
+.back a:hover {
+     color: #49525E;
+}
+
+.content {
+     margin: 2% 5%;
+     text-align: center;
+     border-radius: 5px;
+     background: #FFFFFF;
+     border: 2px solid #A93226;
+}
+
+.elixir {
+     padding: 5px;
+     border-radius: 2px;
+     box-shadow: 0px 0px 2px #000;
+}
